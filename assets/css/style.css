@@ -1,0 +1,14 @@
+body{
+	background-image: url(../images/jeop_logo_large-58bacf375f9b58af5cb69e2f.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: yellowgreen;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
